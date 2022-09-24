@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adityasp1
-- 👀 I’m interested in Web development learning newer aspects everything to create a better product
+- 👀 I’m interested in Web development learning newer aspects everyday to create a better product
 - 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on open source projects and connect with the GitHub commmunity
 - 📫 How to reach me:
