@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adityasp1
+- 🌱 Self Taught Learner
 - 👀 I’m interested in Web development learning newer aspects everyday to create a better product
-- 🌱 I’m currently learning ReactJS 
 - 💞️ I’m looking to collaborate on open source projects and learn more from the GitHub commmunity
 - 📫 How to reach me:
 - Twitter - @aditya_sp3
